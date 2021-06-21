@@ -10,7 +10,7 @@
 <channel>
 	<title>Henry Harrison</title>
 	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
-	<link>/www.henryharrison.net/path/</link>
+	<link>http://henryharrison.net/</link>
 	<description>MSc Psychology Graduate</description>
 	<lastBuildDate>Mon, 21 Jun 2021 13:23:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>/www.henryharrison.net/path/wp-content/uploads/2021/06/cropped-0048-500x500-1-32x32.png</url>
+	<url>http://henryharrison.net/wp-content/uploads/2021/06/cropped-0048-500x500-1-32x32.png</url>
 	<title>Henry Harrison</title>
-	<link>/www.henryharrison.net/path/</link>
+	<link>http://henryharrison.net/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Experiance</title>
-		<link>/www.henryharrison.net/path/2021/06/21/experiance/</link>
-					<comments>/www.henryharrison.net/path/2021/06/21/experiance/#respond</comments>
+		<link>http://henryharrison.net/2021/06/21/experiance/</link>
+					<comments>http://henryharrison.net/2021/06/21/experiance/#respond</comments>
 		
 		<dc:creator><![CDATA[henhen555]]></dc:creator>
 		<pubDate>Mon, 21 Jun 2021 13:23:11 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/www.henryharrison.net/path/?p=24</guid>
+		<guid isPermaLink="false">http://henryharrison.net/?p=24</guid>
 
 					<description><![CDATA[Rijnlands Lyceum Oegstgeest Child and adolescent psychologist, full time internship Leiden, Netherlands July 2020 – January 2021 • Providing and supporting mental health services for staff members and pupils through psychotherapy • Developing programs for long term improvement of mental health for staff and pupils • Individual and group psychotherapy and counselling of children and [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><strong>Rijnlands Lyceum Oegstgeest</strong></p>
@@ -46,7 +46,7 @@
 <p>• Individual and group psychotherapy and counselling of children and adolescents</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/www.henryharrison.net/path/2021/06/21/experiance/feed/</wfw:commentRss>
+					<wfw:commentRss>http://henryharrison.net/2021/06/21/experiance/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
